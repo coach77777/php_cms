@@ -1,5 +1,6 @@
-#PHP CMS written out in total for PHP 747
-The Database:cms_db_likes.sql
-Admin:
-username: craig
-password:123
+#PHP CMS<br />
+Written out in total for PHP 747<br />
+The Database:cms_db_likes.sql<br />
+Admin<br />
+username: craig<br />
+password:123<br />
